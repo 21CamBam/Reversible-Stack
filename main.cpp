@@ -1,5 +1,8 @@
-// (put your name here)
-// (put your ID number here)
+// The following code is the base code given to me by my professor to run my program
+// Please note that it is not mine
+
+// Cammi Smith
+// 11366085
 // CptS 223 - Advanced Data Structures
 // Homework assignment #1
 
